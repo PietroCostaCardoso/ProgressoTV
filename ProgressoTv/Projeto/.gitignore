@@ -1,13 +1,11 @@
-# Ignorar arquivos de configuração de ambiente com senhas
 .env
 
-# Ignorar o "banco de dados" em arquivo para não vazar dados de usuários
 engine/*.hd
 *.hd
 
-# Ignorar arquivos de sistema operacional
+
 .DS_Store
 Thumbs.db
 
-# Ignorar dependências (caso use Composer no futuro)
+# Ignorar dependências 
 /vendor/
