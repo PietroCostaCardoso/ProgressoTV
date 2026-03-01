@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Original%20Repo-green?style=flat-square)
 
 > **Aviso:** Este é o repositório original do ProgressoTV. Se você encontrar este código em outro perfil sem os devidos créditos, ele foi plagiado.
----
+ ---
 [Português](#br) | [English](#en)
 
 <a id="br"></a>
