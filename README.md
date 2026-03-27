@@ -9,7 +9,7 @@
 
 <a id="br"></a>
 ## 🇧🇷 Sobre o Projeto
-O **ProgressoTV** é uma aplicação web leve desenvolvida em **PHP Puro (Vanilla PHP)** para o gerenciamento de chamados ou registros de mídia (séries/TV). O sistema foi construído sem dependências externas ou frameworks, utilizando um sistema de arquivos de texto (.hd) para persistência de dados.....
+O **ProgressoTV** é uma aplicação web leve desenvolvida em **PHP Puro (Vanilla PHP)** para o gerenciamento de chamados ou registros de mídia (séries/TV). O sistema foi construído sem dependências externas ou frameworks, utilizando um sistema de arquivos de texto (.hd) para persistência de dados....
 
 ### 🛠️ Arquitetura e Lógica
 * **Banco de Dados Flat-File:** Utiliza arquivos `.hd` com delimitadores `#` para armazenar usuários e registros.
