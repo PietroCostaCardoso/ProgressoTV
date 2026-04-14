@@ -20,7 +20,6 @@
       // Verifica se o usuário é dono do item ou se é admin (perfil 1)
       if($_SESSION['perfil_id'] == 1 || $_SESSION['id'] == $registro[0]) {
         unset($linhas[$id_linha]);
-        // Reescreve o arquivo
         file_put_contents($arquivo_path, implode('', $linhas));
       }
     }
