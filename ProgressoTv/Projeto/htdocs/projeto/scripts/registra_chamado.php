@@ -15,7 +15,7 @@
     $episodio = str_replace('#', '-', $_POST['episodio']);
     $notas = str_replace('#', '-', $_POST['notas']);
     
-    // Remover quebras de linha das notas
+   
     $notas = str_replace(PHP_EOL, ' ', $notas);
 
     // Montagem do texto: ID_USUARIO#TITULO#TIPO#TEMPORADA#EPISODIO#NOTAS
