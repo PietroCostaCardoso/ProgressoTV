@@ -8,7 +8,7 @@
         exit;
     }
 
-    // Substituir # por - para evitar quebra da estrutura do arquivo
+    
     $titulo = str_replace('#', '-', $_POST['titulo']);
     $tipo = str_replace('#', '-', $_POST['tipo']);
     $temporada = str_replace('#', '-', $_POST['temporada']);
