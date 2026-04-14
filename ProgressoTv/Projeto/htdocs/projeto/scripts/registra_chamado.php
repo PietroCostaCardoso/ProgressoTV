@@ -18,7 +18,7 @@
    
     $notas = str_replace(PHP_EOL, ' ', $notas);
 
-    // Montagem do texto: ID_USUARIO
+    // Montagem do texto: ID
     $texto = $_SESSION['id'] . '#' . $titulo . '#' . $tipo . '#' . $temporada . '#' . $episodio . '#' . $notas . PHP_EOL;
 
     // Abrindo arquivo na pasta engine
