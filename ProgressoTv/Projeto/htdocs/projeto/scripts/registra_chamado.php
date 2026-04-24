@@ -2,7 +2,7 @@
 
     session_start();
 
-    // Validação simples de sessão
+    // Validação simples de sessão.
     if(!isset($_SESSION['autenticado']) || $_SESSION['autenticado'] != 'SIM'){
         header('Location: ../index.php?login=erro2');
         exit;
