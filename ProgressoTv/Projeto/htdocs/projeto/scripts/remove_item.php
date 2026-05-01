@@ -17,7 +17,7 @@
     if(isset($linhas[$id_linha])) {
       $registro = explode('#', $linhas[$id_linha]);
       
-      // Verifica se o usuário é dono do item ou se é admin (perfil 1)
+      // Verifica se o usuário é dono do item ou se é admin 
       if($_SESSION['perfil_id'] == 1 || $_SESSION['id'] == $registro[0]) {
         unset($linhas[$id_linha]);
         file_put_contents($arquivo_path, implode('', $linhas));
