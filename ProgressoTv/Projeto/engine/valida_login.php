@@ -8,7 +8,7 @@
 
 	$perfis = array(1 => 'Administrativo', 2 => 'Usuário');
 
-	//usuarios do sistema, utilize esses ou crie o seu..
+	//usuarios do sistema, utilize esses ou crie o seu.
 	$usuarios_hardcoded = array(
 		array('id' => 1, 'email' => 'adm@teste.com.br', 'senha' => '1234', 'perfil_id' => 1),
 		array('id' => 2, 'email' => 'user@teste.com.br', 'senha' => '1234', 'perfil_id' => 1),
