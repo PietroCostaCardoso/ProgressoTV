@@ -1,4 +1,3 @@
-// verifica se o usuário está autenticado na sessão
 <?php
   session_start();
 
