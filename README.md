@@ -64,4 +64,4 @@ O **ProgressoTV** é uma aplicação web leve desenvolvida em **PHP Puro (Vanill
    php -S localhost:8000                                                                                                                                               ## 👤 Autor
 
 Desenvolvido com dedicação por **Pietro Costa Cardoso**.  
-Se este projeto te ajudou, considere dar uma ⭐ no repositório!
+Se este projeto te ajudou, considere dar uma ⭐ no repositório!!
