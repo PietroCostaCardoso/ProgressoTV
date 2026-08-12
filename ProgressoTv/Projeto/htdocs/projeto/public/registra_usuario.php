@@ -11,57 +11,10 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
-
-    <style>
-      body {
-        background:  linear-gradient( #313131, #131313);;
-        font-family: 'Nunito', sans-serif;
-        height: 100vh;
-        color: #fff;
-      }
-      .card-register {
-        padding: 30px 0 0 0;
-        width: 100%;
-        max-width: 400px;
-        margin: 0 auto;
-      }
-      .card {
-        background-color: rgba(255, 255, 255, 0.1);
-        border: none;
-        border-radius: 15px;
-        backdrop-filter: blur(10px);
-      }
-      .card-header {
-        background-color: transparent;
-        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-        font-weight: bold;
-        font-size: 1.2rem;
-        text-align: center;
-        color: #fff;
-      }
-      .form-control {
-        background-color: rgba(0, 0, 0, 0.2);
-        border: 1px solid rgba(255, 255, 255, 0.1);
-        color: #fff;
-      }
-      .form-control:focus {
-        background-color: rgba(0, 0, 0, 0.4);
-        color: #fff;
-        box-shadow: none;
-        border-color: #f8f8f8;
-      }
-      .btn-primary {
-        background:  #079bc9;
-        border: none;
-        font-weight: bold;
-      }
-      .navbar {
-        background: transparent !important;
-      }
-    </style>
+    <link rel="stylesheet" href="Css/Style.css">
   </head>
 
-  <body>
+  <body class="auth-page">
 
     <nav class="navbar navbar-dark">
       <a class="navbar-brand" href="#">

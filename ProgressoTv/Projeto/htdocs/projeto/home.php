@@ -13,53 +13,10 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
-
-    <style>
-      body {
-        background-color: #141414;
-        font-family: 'Nunito', sans-serif;
-        color: #fff;
-      }
-      .card-home {
-        padding: 30px 0 0 0;
-        width: 100%;
-        margin: 0 auto;
-      }
-      .card {
-        background-color: #1f1f1f;
-        border: none;
-        border-radius: 15px;
-        box-shadow: 0 4px 15px rgba(0,0,0,0.5);
-      }
-      .card-header {
-        background-color: #2b2b2b;
-        border-bottom: 1px solid #333;
-        color: #fff;
-        font-weight: bold;
-      }
-      .action-btn {
-        display: block;
-        padding: 20px;
-        border-radius: 15px;
-        background: #252525;
-        transition: transform 0.3s, background 0.3s;
-        text-decoration: none !important;
-        color: #fff !important;
-      }
-      .action-btn:hover {
-        transform: translateY(-5px);
-        background: #333;
-      }
-      .action-btn span {
-        font-size: 1.2rem;
-        font-weight: bold;
-        margin-top: 10px;
-        display: block;
-      }
-    </style>
+    <link rel="stylesheet" href="public/Css/Style.css">
   </head>
 
-  <body>
+  <body class="public-page">
 
     <nav class="navbar navbar-dark bg-dark border-bottom border-secondary">
       <a class="navbar-brand" href="#">
