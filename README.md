@@ -1,6 +1,7 @@
 # ProgressoTV
 
-AVISO: Foi criado inicialmente como estudo e, posteriormente, foi revisado para melhorar organização e manutenção.
+AVISO: Foi criado inicialmente como estudo e, posteriormente, foi revisado para melhorar organização e manutenção. O projeto é apenas para estudo!!
+---
 [Português](#br) | [English](#en)
 
 <a id="br"></a>
