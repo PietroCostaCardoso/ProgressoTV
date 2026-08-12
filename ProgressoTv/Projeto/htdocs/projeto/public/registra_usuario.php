@@ -14,7 +14,7 @@
 
     <style>
       body {
-        background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+        background:  linear-gradient( #313131, #131313);;
         font-family: 'Nunito', sans-serif;
         height: 100vh;
         color: #fff;
@@ -30,7 +30,6 @@
         border: none;
         border-radius: 15px;
         backdrop-filter: blur(10px);
-        box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
       }
       .card-header {
         background-color: transparent;
@@ -49,15 +48,12 @@
         background-color: rgba(0, 0, 0, 0.4);
         color: #fff;
         box-shadow: none;
-        border-color: #764ba2;
+        border-color: #f8f8f8;
       }
       .btn-primary {
-        background: linear-gradient(to right, #667eea, #764ba2);
+        background:  #079bc9;
         border: none;
         font-weight: bold;
-      }
-      .btn-primary:hover {
-        background: linear-gradient(to right, #764ba2, #667eea);
       }
       .navbar {
         background: transparent !important;

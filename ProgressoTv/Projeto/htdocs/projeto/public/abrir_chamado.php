@@ -42,11 +42,11 @@
       .form-control:focus {
         background-color: #333;
         color: #fff;
-        border-color: #667eea;
+        border-color: #00b3fa;
         box-shadow: none;
       }
       .btn-primary {
-        background: linear-gradient(to right, #667eea, #764ba2);
+        background: #00b3fa;
         border: none;
       }
     </style>
