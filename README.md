@@ -43,11 +43,14 @@ O **ProgressoTV** é uma aplicação web leve desenvolvida em **PHP Puro (Vanill
 
 ## ScreenShot
 <div align="center">
-<img src="https://github.com/user-attachments/assets/039c6943-f20f-492f-94f4-3e364f303005" width="45%" />
-<img src="https://github.com/user-attachments/assets/3466f21d-83fa-4d4c-b5f3-56ddd1ff3f2c" width="45%" />
+<img src="https://github.com/user-attachments/assets/e733fb3b-b77f-45a6-b8eb-d993dad0e452" width="45%" />
+<img src="https://github.com/user-attachments/assets/7969b610-7c8f-4f3a-8b2b-d8678d2618d2" width="45%" />
 <img src="https://github.com/user-attachments/assets/59841c94-9558-4bb4-8059-2c9ffee6dcd1" width="45%" />
-<img src="https://github.com/user-attachments/assets/eef9b886-4573-45a4-8193-f76381c222c5" width="45%" />
+<img src="https://github.com/user-attachments/assets/9b734cf8-fcdb-4c65-8630-5a2a79e9d85f" width="45%" />
 <img src="https://github.com/user-attachments/assets/0ed64bd2-9c13-4e97-af28-f1d767734b0e" width="45%" />
+
+
+
 
 </div>
 
