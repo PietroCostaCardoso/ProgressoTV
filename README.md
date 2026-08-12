@@ -1,7 +1,6 @@
 # ProgressoTV
 
- **Aviso:** Este é o repositório original do ProgressoTV. Se você encontrar este código em outro perfil sem os devidos créditos, ele foi plagiado.
- ---
+AVISO: Foi criado inicialmente como estudo e, posteriormente, foi revisado para melhorar organização e manutenção.
 [Português](#br) | [English](#en)
 
 <a id="br"></a>

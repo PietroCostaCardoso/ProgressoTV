@@ -39,55 +39,10 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
-
-    <style>
-      body {
-        background-color: #141414;
-        font-family: 'Nunito', sans-serif;
-        color: #fff;
-      }
-      .card-consultar-chamado {
-        padding: 30px 0 0 0;
-        width: 100%;
-        margin: 0 auto;
-      }
-      .card-main {
-        background-color: #1f1f1f;
-        border: none;
-        border-radius: 15px;
-        box-shadow: 0 4px 15px rgba(0,0,0,0.5);
-      }
-      .card-header {
-        background-color: #2b2b2b;
-        border-bottom: 1px solid #333;
-        color: #fff;
-        font-weight: bold;
-      }
-      .item-card {
-        background: #2b2b2b;
-        border: none;
-        border-radius: 10px;
-        transition: transform 0.2s;
-        height: 100%;
-      }
-      .item-card:hover {
-        transform: scale(1.03);
-        background: #333;
-      }
-      .badge-custom {
-        font-size: 0.8rem;
-      }
-      .btn-trash {
-        color: #dc3545;
-        cursor: pointer;
-      }
-      .btn-trash:hover {
-        color: #bd2130;
-      }
-    </style>
+    <link rel="stylesheet" href="Css/Style.css">
   </head>
 
-  <body>
+  <body class="public-page">
 
     <nav class="navbar navbar-dark bg-dark border-bottom border-secondary">
       <a class="navbar-brand" href="#">
